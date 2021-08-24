@@ -1,4 +1,4 @@
 # Mori
-An iOS native app project I created for fun quite a while ago.
+An iOS native app project I created for fun back in 20013.
 
-This was created when I was still learning Objective-C and iOS programming subtleties.
+This was also to get myself familialize with some of iOS programming and Objective-C subtleties.
